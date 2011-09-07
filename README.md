@@ -18,7 +18,7 @@ You need install KyTea and Mykytea-python before build.
 How to use?
 --------------------
 
-  See 'test_JPKyteaTokenizer.py' as a sample program.
+  See 'test_kyteatokenizer.py' as a sample program.
 
 License
 --------------------
